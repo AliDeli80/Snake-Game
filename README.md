@@ -53,3 +53,7 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Snake-Game/blob/mast
 4.  Commit your changes with clear commit messages.
 5.  Push your branch to your forked repository.
 6.  Create a pull request to the main repository.   
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

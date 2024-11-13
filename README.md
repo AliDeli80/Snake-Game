@@ -8,13 +8,9 @@ JavaScript Snake Game
 
 A classic snake game built with JavaScript, HTML, and CSS.
 
-<br>
-
 ## Preview
 
-
 https://htmlpreview.github.io/?https://github.com/AliDeli80/Snake-Game/blob/master/html/index.html
-<br>
 
 ## Getting Started
 
@@ -23,8 +19,6 @@ https://htmlpreview.github.io/?https://github.com/AliDeli80/Snake-Game/blob/mast
   ```sh
   git clone https://github.com/AliDeli80/Snake-Game.git
   ```
-
-
 
 ## How to Play
 
